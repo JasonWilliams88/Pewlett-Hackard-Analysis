@@ -3,11 +3,11 @@ A breakdown of Pewlett Hackard's employees to return a list of current employee'
 
 ## Results
 
-__link to code
+__link to code__
 
 ![Employee_Database_challenge.sql](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Employee_Database_challenge.sql)
 
-__Both current and retired employees born between 1952 and 1955
+__Both current and retired employees born between 1952 and 1955__
 
 ![retirement_titles.csv](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
 
