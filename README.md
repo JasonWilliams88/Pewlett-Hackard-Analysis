@@ -26,3 +26,11 @@ __A list of current employees born in 1965. From this pool mentors can be chosen
 
 
 ![](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Retiring_titles.png)
+
+
+## Summary
+
+### Additional queries
+
+- A search with older and younger time points to find a better list of managers
+-
