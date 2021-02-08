@@ -3,12 +3,26 @@ A breakdown of Pewlett Hackard's employees to return a list of current employee'
 
 ## Results
 
-__link to code__
+__Link to code.__
 
-![Employee_Database_challenge.sql](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Employee_Database_challenge.sql)
+[Employee_Database_challenge.sql](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Employee_Database_challenge.sql)
 
-__Both current and retired employees born between 1952 and 1955__
+__Both current and retired employees born between 1952 and 1955.__
 
-![retirement_titles.csv](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
+[retirement_titles.csv](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
+
+__Fixes duplicate entries due to change of job.__
+
+[unique_title.csv](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Data/unique_title.csv)
+
+__A count of both retired and current employees filtered by job title.__
+
+[retiring_titles.csv](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
+__A list of current employees born in 1965. From this pool mentors can be chosen.__
+
+
+[mentorship_eligibilty.csv](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
+
 
 
