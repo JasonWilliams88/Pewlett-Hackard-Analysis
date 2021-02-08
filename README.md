@@ -29,7 +29,8 @@ __A list of current employees born in 1965. From this pool mentors can be chosen
 
 ### Major take aways
 
-- Only 2 managers were in the list of titles
+- Only 2 managers were in the list of titles.
+- The low amount of assistant engineers leads me to believe that upperward mobility is good at PH.
 -
 
 
