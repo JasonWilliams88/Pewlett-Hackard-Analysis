@@ -33,4 +33,4 @@ __A list of current employees born in 1965. From this pool mentors can be chosen
 ### Additional queries
 
 - A search with older and younger time points to find a better list of managers
--
+- A list of new employees can be generated and paired with the mentors
