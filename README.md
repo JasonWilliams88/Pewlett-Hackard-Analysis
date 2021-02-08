@@ -24,11 +24,20 @@ __A list of current employees born in 1965. From this pool mentors can be chosen
 
 [mentorship_eligibilty.csv](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
 
+### Major take aways
+
+- Only 2 managers were in the list of titles
+-
+
 
 ![](https://github.com/JasonWilliams88/Pewlett-Hackard-Analysis/blob/main/Retiring_titles.png)
 
 
 ## Summary
+
+- The disparity of managers might be from the way titles are handles at PH. A senior engineer might also manage a team. talking with the company to get a breakdown of sub titles will need to occur.
+
+-
 
 ### Additional queries
 
