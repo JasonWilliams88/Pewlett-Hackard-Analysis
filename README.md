@@ -32,11 +32,12 @@ __A list of current employees born in 1965. From this pool mentors can be chosen
 - Only 2 managers were in the list of titles.
 - The low amount of assistant engineers and staff compared to the senior positions leads me to believe that upperward mobility is good at PH.
 - With 1550 current employees within retirement age.
+- The titles listed seem generalised. hard to get a real look into what talent might be leaving
 
 
 ## Summary
 
-- The disparity of managers might be from the way titles are handles at PH. A senior engineer might also manage a team. talking with the company to get a breakdown of sub titles will need to occur.
+- The disparity of managers might be from the way titles are handles at PH. A senior engineer might also manage a team. talking with the company to get a breakdown of sub titles will need to occur. This would also help with the generic titles.
 
 - With 1550 employees within retirement age it both tells us we have plenty of experince to pull from for the mentorship program. It also tells us that we're an older company. hiring more new young employees might be somthing to consider
 
